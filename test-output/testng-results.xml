@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-21T19:35:44 IST" name="Default suite" finished-at="2022-12-21T19:36:31 IST" duration-ms="47443">
+    <groups>
+    </groups>
+    <test started-at="2022-12-21T19:35:44 IST" name="Default test" finished-at="2022-12-21T19:36:31 IST" duration-ms="47443">
+      <class name="QA.AppiumFrameworkDesign.eCommerce_tc_Hybrid">
+        <test-method is-config="true" signature="configurationAppium()[pri:0, instance:QA.AppiumFrameworkDesign.eCommerce_tc_Hybrid@3e8c3cb]" started-at="2022-12-21T19:35:44 IST" name="configurationAppium" finished-at="2022-12-21T19:36:01 IST" duration-ms="16713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurationAppium -->
+        <test-method signature="fillForm()[pri:0, instance:QA.AppiumFrameworkDesign.eCommerce_tc_Hybrid@3e8c3cb]" started-at="2022-12-21T19:36:01 IST" name="fillForm" finished-at="2022-12-21T19:36:31 IST" duration-ms="30110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:QA.AppiumFrameworkDesign.eCommerce_tc_Hybrid@3e8c3cb]" started-at="2022-12-21T19:36:31 IST" name="tearDown" finished-at="2022-12-21T19:36:31 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- QA.AppiumFrameworkDesign.eCommerce_tc_Hybrid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
